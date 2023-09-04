@@ -127,5 +127,9 @@
 			"Name": "ArchVisCharacter",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
